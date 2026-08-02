@@ -1,5 +1,5 @@
 
-# COMPSCI 101 Project - S2
+# COMPSCI 101 Project
 
 """
 World Capitals Quiz Game
